@@ -6,7 +6,7 @@ acc_fromScratch = []
 loss_fromSSL = []
 acc_fromSSL = []
 
-with open('logTrainOnUCF.txt') as f:
+with open('log_TrainOnUCFFromScratch.txt') as f:
     all_lines = f.readlines()
 
     for line in all_lines:
@@ -15,7 +15,7 @@ with open('logTrainOnUCF.txt') as f:
         elif 'Acc' in line:
             acc_fromScratch.append(float(line[:-1].split(' ')[-1]))
 
-with open('logTrainOnUCFFromSSL.txt') as f:
+with open('log_TrainOnUCFFromSSL.txt') as f:
     all_lines = f.readlines()
 
     for line in all_lines:
