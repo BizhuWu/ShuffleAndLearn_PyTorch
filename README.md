@@ -2,7 +2,7 @@
 
 This repository is an **`PyTorch`** implementation of the paper ["Shuffle and Learn: Unsupervised Learning using Temporal Order Verification"](https://arxiv.org/pdf/1603.08561.pdf). 
 
-Note that I used **`ResNet-18`** instead of **`VGG`** as my backbone.
+Note that I used **`ResNet-18`** instead of **`AlexNet`** as my backbone.
 
 The original repository of the paper is [imisra/shuffle-tuple](https://github.com/imisra/shuffle-tuple) (Caffe Version)
 
