@@ -105,7 +105,7 @@ Project
 ### SSL pretext Task Training
 Before training, make sure you have a directory named **`model_SSL`** in the root project to save checkpoint file.
 ```python
-python3 FrameOrderVerificationTraining.py
+python3 frameOrderVerificationTraining.py
 ```
 ### Action Recognition Training from Scratch
 Before training, make sure you have a directory named **`model_TrainOnUCFFromSSL`** in the root project to save checkpoint file.
@@ -117,7 +117,3 @@ Before training, make sure you have a directory named **`model_TrainOnUCFFromScr
 ```python
 python3 trainOneStreamNetFromScratch.py
 ```
-
-&nbsp;
-
-
