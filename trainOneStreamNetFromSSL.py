@@ -26,17 +26,6 @@ net.load_state_dict(net_now_dict)
 
 
 
-# for validation whether load state dict sucessfully
-# for k, v in net.state_dict().items():
-#     print(k, v)
-#     break
-#
-# for k, v in load_pretrained_dict.items():
-#     print(k, v)
-#     break
-
-
-
 optimizer = optim.SGD(
     params=net.parameters(),
     lr=config.AR_lr
