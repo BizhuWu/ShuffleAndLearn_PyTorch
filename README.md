@@ -17,6 +17,7 @@ Accuracy (train from Scratch) on UFC101 Split 1    | Accuracy (train from SSL) o
 % (50 epochs)|% (50 epochs)
 
 ![](/acc.png)
+![](/loss.png)
 
 &nbsp;
 
