@@ -2,9 +2,12 @@
 
 This repository is an **`PyTorch`** implementation of the paper ["Shuffle and Learn: Unsupervised Learning using Temporal Order Verification"](https://arxiv.org/pdf/1603.08561.pdf). 
 
+Note that I used **`ResNet-18`** instead of **`VGG`** as my backbone.
+
 The original repository of the paper is [imisra/shuffle-tuple](https://github.com/imisra/shuffle-tuple) (Caffe Version)
 
 The repository includes the whole training process. 
+
 Specifically, I use PyTorch 1.7 **`VideoIO / Video Datasets Loading API / Video Transform`** to process the Data. [More Details：How to use Video Datasets，Video IO，Video Classification Models，Video Transform in PyTorch](https://blog.csdn.net/qq_36627158/article/details/113791050)
 
 
