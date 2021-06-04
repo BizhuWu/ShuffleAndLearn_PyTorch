@@ -16,8 +16,9 @@ Specifically, I use PyTorch 1.7 **`VideoIO / Video Datasets Loading API / Video 
 
 ## Performance
 ### 10 epoch
-![](/acc10_1.png)
-![](/loss10_1.png)
+No.|Acc|Loss
+:---:|:---:|:---:
+1|![](/acc10_1.png)|![](/loss10_1.png)
 
 &nbsp;
 
