@@ -15,12 +15,9 @@ Specifically, I use PyTorch 1.7 **`VideoIO / Video Datasets Loading API / Video 
 
 
 ## Performance
-Accuracy (train from Scratch) on UFC101 Split 1    | Accuracy (train from SSL) on UFC101 Split 1
-:-----------:|:-----------:
-% (50 epochs)|% (50 epochs)
-
-![](/acc.png)
-![](/loss.png)
+### 10 epoch
+![](/acc10.png)
+![](/loss10.png)
 
 &nbsp;
 
