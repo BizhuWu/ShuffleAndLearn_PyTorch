@@ -13,22 +13,6 @@ Specifically, I use PyTorch 1.7 **`VideoIO / Video Datasets Loading API / Video 
 
 &nbsp;
 
-
-## Performance
-### 10 epoch
-No.|Acc|Loss
-:---:|:---:|:---:
-1|![](/result_png/acc10_1.png)|![](/result_png/loss10_1.png)
-2|![](/result_png/acc10_2.png)|![](/result_png/loss10_2.png)
-3|![](/result_png/acc10_3.png)|![](/result_png/loss10_3.png)
-
-### 50 epoch
-No.|Acc|Loss
-:---:|:---:|:---:
-
-&nbsp;
-
-
 ## Training Environment
 + Ubuntu 16.04.7 LTS
 + CUDA Version: 10.1
@@ -125,3 +109,19 @@ Before training, make sure you have a directory named **`model_TrainOnUCFFromScr
 ```python
 python3 trainOneStreamNetFromScratch.py
 ```
+
+&nbsp;
+
+## Performance
+### 10 epoch
+No.|Acc|Loss
+:---:|:---:|:---:
+1|![](/result_png/acc10_1.png)|![](/result_png/loss10_1.png)
+2|![](/result_png/acc10_2.png)|![](/result_png/loss10_2.png)
+3|![](/result_png/acc10_3.png)|![](/result_png/loss10_3.png)
+
+### 50 epoch
+No.|Acc|Loss
+:---:|:---:|:---:
+
+
