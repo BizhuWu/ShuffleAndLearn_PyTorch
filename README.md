@@ -123,5 +123,8 @@ No.|Acc|Loss
 ### 50 epoch (Still Running)
 No.|Acc|Loss
 :---:|:---:|:---:
+1|![](/result_png/acc50_1.png)|![](/result_png/loss50_1.png)
+2|![](/result_png/acc50_2.png)|![](/result_png/loss50_2.png)
+3|![](/result_png/acc50_3.png)|![](/result_png/loss50_3.png)
 
 
