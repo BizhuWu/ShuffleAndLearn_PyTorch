@@ -120,7 +120,7 @@ No.|Acc|Loss
 2|![](/result_png/acc10_2.png)|![](/result_png/loss10_2.png)
 3|![](/result_png/acc10_3.png)|![](/result_png/loss10_3.png)
 
-### 50 epoch (Still Running)
+### 50 epoch
 No.|Acc|Loss
 :---:|:---:|:---:
 1|![](/result_png/acc50_1.png)|![](/result_png/loss50_1.png)
